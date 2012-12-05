@@ -1,0 +1,3 @@
+0000000000 alias objs[0] = pygame.mixer
+0000000000 init
+0000000000 audio 1
